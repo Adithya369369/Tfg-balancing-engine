@@ -5,5 +5,6 @@ public class methodClass {
         System.out.println("sdsz");
         System.out.println("sdfds");
         System.out.println("shdkufhas");
+        System.out.println("asdfad");
     }
 }
